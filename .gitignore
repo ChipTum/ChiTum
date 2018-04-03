@@ -1,0 +1,9 @@
+
+# Build
+build/
+
+# vscode
+.vscode/
+
+# Benchmarks
+bench/
